@@ -1,0 +1,20 @@
+#contents.ytd-rich-grid-renderer {
+	max-width: auto !important;
+}
+ytd-rich-grid-renderer {
+    --ytd-rich-grid-items-per-row: 6 !important;
+    --ytd-rich-grid-row-margin: 30px !important;
+  }
+
+#video-title.ytd-rich-grid-media {
+	font-size: 14px !important;
+	line-height: inherit !important;
+	font-weight: 500;
+	overflow: auto !important;
+	display: auto !important;
+	max-height: auto !important;
+}
+
+ytd-rich-item-renderer[rendered-from-rich-grid]{
+	margin-left: auto !important
+}
