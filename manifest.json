@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "YouTube UI Fix",
-    "version": "1.0",
+    "version": "1.1",
     "description": "Automatically fix Youtube UI.",
     "content_scripts": [
         {
@@ -16,7 +16,7 @@
     ],
     "applications": {
         "gecko": {
-            "id": ""
+            "id": "@.com"
         }
     }
 }
