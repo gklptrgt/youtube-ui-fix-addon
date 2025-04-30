@@ -1,3 +1,5 @@
+[Download for Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-ui-fix/)
+
 Fixes Youtube UI, by making 6 videos per row and showing the whole video title.
 # Before
 ![image](https://github.com/user-attachments/assets/11114543-8e0b-4822-b7ee-343b7c13661b)
